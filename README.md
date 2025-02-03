@@ -5,6 +5,11 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
+
+- <b>STIG Implementation</b>
+  - [Implementation of STIG ID: WN10-AU-000500](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-AU-000500.PS1)
+ 
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
