@@ -6,7 +6,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
 
-- <b>STIG Implementation</b>
+- <b>STIG Implementations</b>
   - [Implementation of STIG ID: WN10-AU-000500](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-AU-000500.PS1)
  
 
