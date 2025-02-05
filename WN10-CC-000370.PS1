@@ -1,11 +1,11 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    This PowerShell script ensures that the convenience PIN for Windows 10 must be disabled..
 
 .NOTES
     Author          : James Little
     LinkedIn        : 
-    GitHub          : github.com/jameslittle04
+    GitHub          : github.com/jameslittle05
     Date Created    : 2024-02-04
     Last Modified   : 2024-02-04
     Version         : 1.0
