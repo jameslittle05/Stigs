@@ -7,7 +7,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
   
 - <b>⚠️ Vulnerability Management Projects</b>
-  - [Vulnerability Management Program Implementation]((https://github.com/jameslittle05/Vuln-Mgmt-Project))
+  - [Vulnerability Management Program Implementation](https://github.com/jameslittle05/Vuln-Mgmt-Project)
   - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jameslittle05/azure-network-protocols)
  
 - <b>🚨 Threat Hunting and Security Operations</b>
