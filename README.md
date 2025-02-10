@@ -6,10 +6,12 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
   
-- <b>Microsoft Azure</b>
-
-
-
+- <b>⚠️ Vulnerability Management Projects</b>
+  - [Vulnerability Management Program Implementation](https://github.com/jameslittle05/configure-ad)
+  - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jameslittle05/azure-network-protocols)
+ 
+- <b>🚨 Threat Hunting and Security Operations</b>
+  - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/configure-ad)
 
 - <b>STIG Implementations</b>
   - [Implementation of STIG ID: WN10-AU-000500](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-AU-000500.PS1)
