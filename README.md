@@ -8,10 +8,10 @@
   
 - <b>⚠️ Vulnerability Management Projects</b>
   - [Vulnerability Management Program Implementation](https://github.com/jameslittle05/Vuln-Mgmt-Project)
-  - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jameslittle05/azure-network-protocols)
+  - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jameslittle05/Prog-Vuln-Rem)
  
 - <b>🚨 Threat Hunting and Security Operations</b>
-  - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/configure-ad)
+  - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/Threat-Hunt)
 
 - <b>STIG Implementations</b>
   - [Implementation of STIG ID: WN10-AU-000500](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-AU-000500.PS1)
