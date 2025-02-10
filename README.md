@@ -1,4 +1,4 @@
-<h1>Hello, I'm James, an <a href="(https://www.linkedin.com/in/jamesblittle5/)"> Information Security Professional</a>☺</h1>
+<h1>James Little's, an <a href="(https://www.linkedin.com/in/jamesblittle5/)"> Information Security Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
