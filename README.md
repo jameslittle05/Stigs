@@ -12,6 +12,7 @@
  
 - <b>🚨 Threat Hunting and Security Operations</b>
   - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/Threat-Hunt)
+  - [Threat Hunting Scenario (Unauthorized VPN Usage)](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
 
 - <b>STIG Implementations</b>
   - [Implementation of STIG ID: WN10-AU-000500](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-AU-000500.PS1)
