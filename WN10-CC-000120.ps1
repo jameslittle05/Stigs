@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that WDigest Authentication must be disabled.
+    This PowerShell script ensures that The network selection user interface (UI) must not be displayed on the logon screen.
 
 .NOTES
     Author          : James Little
