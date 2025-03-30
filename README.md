@@ -1,12 +1,8 @@
 <h1>James Little's <a href="(https://www.linkedin.com/in/jamesblittle5/)"> IT and Cybersecurity Project Portfolio </a>☺</h1>
 
-<h2> Information Technology Projects:</h2>
+# Cloud/InfoSec Projects
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
-
-# BLUE TEAM 💙 
+# 💙 BLUE TEAM 💙 
   
 - <b>⚠️ Vulnerability Management Projects</b>
   - [Vulnerability Management Program Implementation](https://github.com/jameslittle05/Vuln-Mgmt-Project)
@@ -20,13 +16,15 @@
   - [Implementation of STIG ID: WN10-CC-000205](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-CC-000205.PS1)
   - [Implementation of STIG ID: WN10-CC-000326](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-CC-000326.PS1)
  
- 
 - <b>🚨 Threat Hunting and Security Operations</b>
   - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/Threat-Hunt)
   - [Threat Hunting Scenario (Unauthorized VPN Usage)](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
 
 
- 
+# 💚Identity and Access Management💚
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
